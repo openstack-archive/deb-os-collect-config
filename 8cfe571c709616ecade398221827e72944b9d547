@@ -1,0 +1,12 @@
+Code-Review+1: Ben Nemec <openstack@nemebean.com>
+Code-Review+2: Tomas Sedovic <tomas@sedovic.cz>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+1: Jay Dobies <jason.dobies@redhat.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 17 Apr 2014 19:56:29 +0000
+Reviewed-on: https://review.openstack.org/83837
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

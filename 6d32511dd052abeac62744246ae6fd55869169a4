@@ -1,0 +1,11 @@
+Code-Review+2: Marios Andreou <marios@redhat.com>
+Code-Review+1: Motohiro/Yuanying Otsuka <yuanying@fraction.jp>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Tomas Sedovic <tomas@sedovic.cz>
+Workflow+1: Tomas Sedovic <tomas@sedovic.cz>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Oct 2014 14:08:17 +0000
+Reviewed-on: https://review.openstack.org/111334
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

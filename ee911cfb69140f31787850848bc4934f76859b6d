@@ -1,0 +1,10 @@
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Petr Blaho <pblaho@redhat.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Workflow+1: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Jul 2014 20:50:02 +0000
+Reviewed-on: https://review.openstack.org/94526
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

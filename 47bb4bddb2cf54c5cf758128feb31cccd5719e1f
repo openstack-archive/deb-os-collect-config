@@ -1,0 +1,9 @@
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Ben Nemec <openstack@nemebean.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 03 Sep 2014 16:54:24 +0000
+Reviewed-on: https://review.openstack.org/107611
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

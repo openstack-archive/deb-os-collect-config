@@ -1,0 +1,10 @@
+Code-Review+2: Marios Andreou <marios@redhat.com>
+Code-Review+1: Steve Baker <sbaker@redhat.com>
+Code-Review+2: Petr Blaho <pblaho@redhat.com>
+Workflow+1: Petr Blaho <pblaho@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 29 May 2015 09:40:47 +0000
+Reviewed-on: https://review.openstack.org/180671
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

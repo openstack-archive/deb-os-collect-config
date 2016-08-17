@@ -1,0 +1,12 @@
+Code-Review+2: Alexis Lee <lxsli@hpe.com>
+Code-Review+1: Kiall Mac Innes <kiall@macinnes.ie>
+Code-Review+1: Michael Kerrin <michael.kerrin@hp.com>
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Ghe Rivero <ghe.rivero@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 19 Dec 2014 08:03:03 +0000
+Reviewed-on: https://review.openstack.org/139052
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

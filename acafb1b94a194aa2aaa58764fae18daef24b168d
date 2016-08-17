@@ -1,0 +1,9 @@
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 02 Jul 2015 16:37:30 +0000
+Reviewed-on: https://review.openstack.org/183356
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

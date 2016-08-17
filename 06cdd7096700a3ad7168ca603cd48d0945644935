@@ -1,0 +1,10 @@
+Code-Review+2: Jiri Stransky <jistr@redhat.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: Derek Higgins <derekh@redhat.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 08 May 2014 15:58:46 +0000
+Reviewed-on: https://review.openstack.org/89238
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

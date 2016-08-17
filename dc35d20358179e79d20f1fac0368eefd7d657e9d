@@ -1,0 +1,12 @@
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Code-Review+1: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+1: Steve Baker <sbaker@redhat.com>
+Workflow+1: Jay Dobies <jason.dobies@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Jun 2014 23:57:15 +0000
+Reviewed-on: https://review.openstack.org/94548
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

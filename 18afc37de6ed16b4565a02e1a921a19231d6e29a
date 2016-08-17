@@ -1,0 +1,10 @@
+Code-Review+2: Tomas Sedovic <tomas@sedovic.cz>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 16 Oct 2014 12:48:51 +0000
+Reviewed-on: https://review.openstack.org/120994
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

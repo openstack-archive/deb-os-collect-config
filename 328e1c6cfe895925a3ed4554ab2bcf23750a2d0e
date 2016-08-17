@@ -1,0 +1,12 @@
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Workflow+1: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Jul 2014 17:00:32 +0000
+Reviewed-on: https://review.openstack.org/94524
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

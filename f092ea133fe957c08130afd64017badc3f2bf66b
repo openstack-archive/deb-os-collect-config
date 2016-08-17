@@ -1,0 +1,10 @@
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 May 2016 22:03:37 +0000
+Reviewed-on: https://review.openstack.org/295903
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

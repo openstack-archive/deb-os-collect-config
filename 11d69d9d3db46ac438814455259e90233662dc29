@@ -1,0 +1,9 @@
+Code-Review+2: Jiri Stransky <jistr@redhat.com>
+Code-Review+2: Petr Blaho <pblaho@redhat.com>
+Workflow+1: Petr Blaho <pblaho@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 27 Apr 2015 14:42:21 +0000
+Reviewed-on: https://review.openstack.org/176847
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

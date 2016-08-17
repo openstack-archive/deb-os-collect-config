@@ -1,0 +1,10 @@
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+1: Motohiro/Yuanying Otsuka <yuanying@fraction.jp>
+Workflow+1: Ghe Rivero <ghe.rivero@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Oct 2014 11:30:18 +0000
+Reviewed-on: https://review.openstack.org/127146
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

@@ -1,0 +1,9 @@
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 17 Apr 2014 22:02:53 +0000
+Reviewed-on: https://review.openstack.org/85829
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

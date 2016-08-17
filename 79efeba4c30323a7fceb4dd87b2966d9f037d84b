@@ -1,0 +1,9 @@
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+2: Marios Andreou <marios@redhat.com>
+Workflow+1: Marios Andreou <marios@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 25 Jul 2014 08:12:07 +0000
+Reviewed-on: https://review.openstack.org/105594
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

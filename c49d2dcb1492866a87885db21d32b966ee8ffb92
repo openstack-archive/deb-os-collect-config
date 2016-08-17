@@ -1,0 +1,10 @@
+Code-Review+1: James Polley <jp@jamezpolley.com>
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Workflow+1: greghaynes <greg@greghaynes.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 13 Oct 2014 03:56:17 +0000
+Reviewed-on: https://review.openstack.org/120606
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

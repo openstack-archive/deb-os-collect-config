@@ -1,0 +1,10 @@
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 08 Aug 2014 16:59:35 +0000
+Reviewed-on: https://review.openstack.org/109431
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

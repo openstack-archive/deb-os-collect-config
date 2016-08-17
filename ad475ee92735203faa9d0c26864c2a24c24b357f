@@ -1,0 +1,10 @@
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Code-Review+1: James Polley <jp@jamezpolley.com>
+Workflow+1: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 29 Oct 2014 04:27:47 +0000
+Reviewed-on: https://review.openstack.org/128479
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

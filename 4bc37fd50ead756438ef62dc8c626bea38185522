@@ -1,0 +1,9 @@
+Code-Review+2: Petr Blaho <pblaho@redhat.com>
+Code-Review+2: Jay Dobies <jason.dobies@redhat.com>
+Workflow+1: Jay Dobies <jason.dobies@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 13 Nov 2014 21:31:33 +0000
+Reviewed-on: https://review.openstack.org/134195
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

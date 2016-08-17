@@ -1,0 +1,9 @@
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Ben Nemec <openstack@nemebean.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 29 Oct 2014 16:13:22 +0000
+Reviewed-on: https://review.openstack.org/131545
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

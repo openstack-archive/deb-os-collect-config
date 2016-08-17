@@ -1,0 +1,11 @@
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Workflow+1: Steve Kowalik <steven@wedontsleep.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Nov 2014 02:29:00 +0000
+Reviewed-on: https://review.openstack.org/132776
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

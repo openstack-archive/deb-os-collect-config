@@ -1,0 +1,9 @@
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: greghaynes <greg@greghaynes.net>
+Workflow+1: greghaynes <greg@greghaynes.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 14 Jan 2015 22:42:37 +0000
+Reviewed-on: https://review.openstack.org/145890
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master

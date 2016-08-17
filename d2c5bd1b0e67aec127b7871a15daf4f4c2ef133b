@@ -1,0 +1,11 @@
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+1: Ryan Brown <rybrown@redhat.com>
+Code-Review+2: Petr Blaho <pblaho@redhat.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: Dan Prince <dprince@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 04 Jun 2015 17:15:33 +0000
+Reviewed-on: https://review.openstack.org/183360
+Project: openstack/deb-os-collect-config
+Branch: refs/heads/master
