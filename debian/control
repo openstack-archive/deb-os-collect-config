@@ -28,8 +28,8 @@ Build-Depends-Indep: python-anyjson (>= 0.3.3),
                      testrepository (>= 0.0.18),
                      subunit (>= 0.0.18)
 Standards-Version: 3.9.5
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-os-collect-config.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-os-collect-config.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-os-collect-config?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-os-collect-config -b debian/newton
 Homepage: https://github.com/openstack/os-collect-config
 
 Package: python-os-collect-config
