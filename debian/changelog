@@ -6,6 +6,7 @@ python-os-collect-config (0.1.15-2) UNRELEASED; urgency=medium
   * d/copyright: Changed source URL to https protocol
   * d/s/options: extend-diff-ignore of .gitreview
   * d/control: Using OpenStack's Gerrit as VCS URLs.
+  * Bumped debhelper compat version to 10
 
  -- Ondřej Nový <novy@ondrej.org>  Sun, 28 Feb 2016 15:43:19 +0100
 
